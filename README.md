@@ -1,1 +1,2 @@
 # i2intern
+Bu proje, i2i Systems  intern programı kapsamında bulut bilişim ödevi olarak hazırlanmıştır. Google Cloud Platform (GCP) üzerinde bir sanal makine (VM) oluşturulması istenmiş  ve yerel bilgisayardan bu VM'ye ping testi gerçekleştirilmesi beklenmiştir. . Bu sayede bulut altyapısına dış bağlantı kurulabilirliği test edilmiştir. Bu bağlantı kurulurken VM External IP adresi alınıp  bilgisayarın kendi terminalinde kullanılmıştır.
